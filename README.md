@@ -2,9 +2,9 @@
 
 A modern, elegant interior design frontend built using **React**, **Vite**, and **Tailwind CSS**. It showcases a professional and responsive layout for an interior design service website, including rich content sections and authentication pages.
 
-![image1](./image.png)
-![image2](./image copy.png)
-![image3](./image copy 2.png)
+![image1](https://github.com/sachin4real/InteriorDesign-ecom)
+![image2](https://github.com/sachin4real/InteriorDesign-ecom-/blob/main/public/image%20copy.png?raw=true)
+![image3](https://github.com/sachin4real/InteriorDesign-ecom-/blob/main/public/image%20copy%202.png?raw=true)
 
 ---
 
